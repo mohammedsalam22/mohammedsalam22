@@ -17,14 +17,19 @@ I'm a passionate **Flutter** developer with expertise in creating beautiful, hig
   <img src="https://azure.microsoft.com/svghandler/azure-logo.svg" alt="Azure" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/BLoC-State%20Management-blue?style=for-the-badge&logo=flutter" alt="BLoC" width="100" height="40"/>
+
+
+
   
 </p>
 
 
 ## 💡 Skills
-- **Expert in Flutter**: Deep knowledge of widgets, state management, and animations.
+- **Expert in Flutter**: Deep knowledge of widgets, state management, and animations and clean architecture.
 - **Strong React Skills**: Familiar with component lifecycle, hooks, and context API.
 - Passionate about clean code and efficient software design.
 
@@ -35,6 +40,5 @@ I'm a passionate **Flutter** developer with expertise in creating beautiful, hig
 ## 📫 Get in Touch
 Feel free to reach out if you'd like to collaborate or chat!
 - **Email**: [ms6960852@gmail.com](mailto:ms6960852@gmail.com)
-- **LinkedIn**: [your-linkedin-profile](Link) (replace with your actual LinkedIn profile link)
 
 Thanks for visiting my profile! 🌟 I look forward to connecting with you!
