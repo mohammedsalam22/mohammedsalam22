@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mohammed Salam
 
-<!--
-**mohammedsalam22/mohammedsalam22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Flutter** developer with expertise in creating beautiful, high-performance mobile applications. I'm also good in **React**, delivering dynamic web applications that provide seamless user experiences.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Flutter** 
+- **React** ⚛️
+- **Languages**: Dart, JavaScript , TypeScript
+- **Tools**: Git, GitHub, Jira, Firebase, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💡 Skills
+- **Expert in Flutter**: Deep knowledge of widgets, state management, and animations.
+- **Strong React Skills**: Familiar with component lifecycle, hooks, and context API.
+- Passionate about clean code and efficient software design.
+
+
+
+## 📫 Get in Touch
+Feel free to reach out if you'd like to collaborate or chat!
+- **Email**: [ms6960852@gmail.com](mailto:ms6960852@gmail.com)
+
+Thanks for visiting my profile! 🌟 I look forward to connecting with you!
