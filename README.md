@@ -29,13 +29,18 @@ I'm a passionate **Flutter** developer with expertise in creating beautiful, hig
 
 
 ## 💡 Skills
-- **Expert in Flutter**: Deep knowledge of widgets, state management, and animations and clean architecture.
+- **Expert in Flutter**: Deep knowledge of widgets, state management, and animations.
 - **Strong React Skills**: Familiar with component lifecycle, hooks, and context API.
+- **Database Expertise**: Proficient in SQLite and Hive for local storage.
+- **State Management with Redux**: Skilled in managing application state effectively using Redux.
+- **BLoC Architecture**: Proficient in implementing the BLoC pattern for Flutter applications.
 - Passionate about clean code and efficient software design.
 
 ## 🌱 Currently Learning
-- Advanced state management techniques in Flutter (e.g., BLoC, Provider)
-- Next.js for server-side rendering in React
+- **Backend Development**: Gaining knowledge in server-side programming with asp.net.
+- Next.js for server-side rendering
+- **DevOps**: Exploring CI/CD practices, containerization with Docker, and orchestration with Kubernetes. 
+- Learning about infrastructure as code (IaC) with tools like Terraform and configuration management.
 
 ## 📫 Get in Touch
 Feel free to reach out if you'd like to collaborate or chat!
